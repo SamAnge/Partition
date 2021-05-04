@@ -1,5 +1,5 @@
 # Partition
-reating a list partitions in java
+a list partitions in java
 
 Partition est une application permettant de segmenter une liste principale en plusieurs sous-listes selon la taille souhaitée.
 
